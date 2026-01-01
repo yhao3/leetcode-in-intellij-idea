@@ -25,7 +25,7 @@ src/
 
 **Please check out my blog post for a complete step-by-step guide:**
 
-👉 [LeetCode in IntelliJ IDEA](https://yhao3.github.io/posts/leetcode-in-intellij-idea/) 👈
+👉 [LeetCode in IntelliJ IDEA](https://blog.yhao3.dev/posts/leetcode-in-intellij-idea/) 👈
 
 ## License
 
